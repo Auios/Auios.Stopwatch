@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Copyright 2020 Connor Andrew Ngo
+// Licensed under the MIT License
+
+using System;
 
 namespace Auios.Stopwatch
 {
